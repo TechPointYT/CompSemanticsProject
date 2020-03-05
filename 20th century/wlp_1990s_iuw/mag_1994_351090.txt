@@ -1,0 +1,25 @@
+@@351090	##	fo
+Italian	italian	jj_nn1
+billionaire	billionaire	nn1
+Silvio	silvio	np1
+Berlusconi	berlusconi	np1
+has	have	vhz
+TV	tv	nn1
+stations	station	nn2
+,	,	y
+a	a	at1
+soccer	soccer	nn1
+team	team	nn1
+and	and	cc
+now	now	rt
+ -- 	--	zz
+with	with	iw
+some	some	dd
+help	help	nn1_vv0
+from	from	ii
+his	his	appge
+neo-Fascist	neo-fascist	jj	
+allies	ally	nn2
+ -- 	--	nn1_jj
+a	a	at1
+country	country	nn1

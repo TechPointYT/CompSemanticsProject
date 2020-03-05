@@ -1,0 +1,12 @@
+@@235923	##	fo
+"	"	"
+At	at	ii
+this	this	dd1
+point	point	nn1
+the	the	at
+member	member	nn1
+just	just	rr21
+about	about	rr22
+abandons	abandon	vvz
+all	all	db_rr@
+hope	hope	vv0_nn1

@@ -1,0 +1,11 @@
+@@371397	##	fo
+This	this	dd1
+article	article	nn1
+consists	consist	vvz
+of	of	io
+quotes	quote	nn2
+and	and	cc
+illustration	illustration	nn1
+ -- 	--	nn1
+see	see	vv0
+below	below	ii_rl_rg

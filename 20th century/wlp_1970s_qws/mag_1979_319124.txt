@@ -1,0 +1,4 @@
+@@319124	##	fo
+White	white	np1
+House	house	nn1
+Years	year	nnt2

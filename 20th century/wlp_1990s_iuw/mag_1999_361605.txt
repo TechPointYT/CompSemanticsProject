@@ -1,0 +1,8 @@
+@@361605	##	fo
+GOING	go	vvg
+,	,	y
+GOING	go	vvg
+...	....	...
+RENTED	rent	vvn_jj@	
+!	!	!
+When	when	cs_rrq

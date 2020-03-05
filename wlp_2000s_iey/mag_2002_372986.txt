@@ -1,0 +1,11 @@
+@@372986	##	fo
+This	this	dd1
+article	article	nn1
+consists	consist	vvz
+of	of	io
+quotes	quote	nn2
+and	and	cc
+photographs	photograph	nn2_vvz@
+ -- 	--	nn1_jj
+see	see	vv0
+below	below	ii_rl_rg

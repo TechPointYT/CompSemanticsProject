@@ -1,0 +1,10 @@
+@@374477	##	fo
+This	this	dd1
+article	article	nn1
+consists	consist	vvz
+of	of	io
+an	an	at1
+illustration	illustration	nn1
+ -- 	--	nn1
+see	see	vv0
+below	below	ii_rl_rg

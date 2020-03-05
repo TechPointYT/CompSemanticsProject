@@ -1,0 +1,15 @@
+@@299023	##	fo
+THE	the	at
+SALT	salt	nn1
+LINE	line	nn1
+<P>	<p>	null	
+by	by	ii
+Elizabeth	elizabeth	np1
+Spencer	spencer	np1
+<P>	<p>	null	
+Doubleday	doubleday	np1
+;	;	y
+302	302	mc
+pages	page	nn2
+;	;	y
+$15.95	$15.95	nnu

@@ -1,0 +1,30 @@
+@@369599	##	fo
+SURVIVOR	survivor	nn1
+III	iii	mc
+Apparently	apparently	rr
+eager	eager	jj
+to	to	to
+cash	cash	vvi
+in	in	rp
+on	on	ii
+two	two	mc
+trends	trend	nn2
+ -- 	--	zz
+reality	reality	nn1
+TV	tv	nn1
+and	and	cc
+the	the	at
+Web	web	nn1
+ -- 	--	nn1
+at	at	rr21
+once	once	rr22
+,	,	y
+the	the	at
+Army	army	nn1
+has	have	vhz
+launched	launch	vvn
+a	a	at1
+website	website	nn1
+called	call	vvn
+Basic	basic	jj
+Training	training	nn1

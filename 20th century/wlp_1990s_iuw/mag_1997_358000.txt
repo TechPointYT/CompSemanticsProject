@@ -1,0 +1,9 @@
+@@358000	##	fo
+This	this	dd1
+article	article	nn1
+consists	consist	vvz
+of	of	io
+photographs	photograph	nn2
+ -- 	--	nn1_jj
+see	see	vv0
+below	below	ii_rl_rg
