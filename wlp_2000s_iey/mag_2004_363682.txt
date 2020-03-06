@@ -1,7 +1,0 @@
-@@363682	##	fo
-So	so	rg_rr
-bad	bad	jj_rr%
-it	it	pph1
-'s	be	vbz
-good	good	jj
-,	,	y

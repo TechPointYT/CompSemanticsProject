@@ -1,3 +1,0 @@
-@@152016	##	fo
-Boorish	boorish	jj_nn1	
-Dowse	dowse	nn1_np1	
